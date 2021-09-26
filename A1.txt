@@ -1,0 +1,10 @@
+HTTPS, HTTP, HTTP/2
+1) a: It is not provided in the example.
+   b: 1.1.
+   c: Persistent.
+   d: Allows for proper display of styling of the pages.
+2) a:
+   b: The proxy acts as a go-between of the client and server.
+
+DNS & Domain Names
+1) An Internet Standard is the methodology or specification used for the internet.
