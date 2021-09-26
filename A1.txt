@@ -3,7 +3,7 @@ HTTPS, HTTP, HTTP/2
    b: 1.1.
    c: Persistent.
    d: Allows for proper display of styling of the pages.
-2) a:
+2) a: Not sure
    b: The proxy acts as a go-between of the client and server.
 
 DNS & Domain Names
