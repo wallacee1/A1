@@ -3,8 +3,12 @@ HTTPS, HTTP, HTTP/2
    b: 1.1.
    c: Persistent.
    d: Allows for proper display of styling of the pages.
-2) a: Not sure
+2) a: Respond with connection to index.html
    b: The proxy acts as a go-between of the client and server.
 
 DNS & Domain Names
 1) An Internet Standard is the methodology or specification used for the internet.
+2) Currently IPv4 is the standard however, there is a transition strategy in place called IPv6 which will scale up tremendously.
+3) a: I could not figure out this part.
+   b: I could not figure this out.
+4) Stored addresses in cache to quickly find sites if called again.
